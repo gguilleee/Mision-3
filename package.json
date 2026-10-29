@@ -1,0 +1,20 @@
+{
+  "name": "reactor-core",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Bitácora de expedición por los tipos Pokémon, reconstruida en React 19 sobre la PokeAPI.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.0",
+    "vite": "^8.0.0"
+  }
+}
